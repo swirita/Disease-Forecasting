@@ -1,1 +1,1 @@
-# Disease-Forecastingg
+# Disease-Forecasting
